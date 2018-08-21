@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherLib</string>
+    <string name="temp">Température</string>
+    <string name="condi">Condition</string>
+    <string name="loc">Localisation</string>
+    <string name="date">date</string>
+</resources>
