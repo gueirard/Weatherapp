@@ -12,8 +12,6 @@
         android:theme="@style/AppTheme">
         <activity android:name="com.android.weatherapp.MainActivity" >
 
-            <uses-library android:name="weatherlib" />
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
